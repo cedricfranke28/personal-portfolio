@@ -20,7 +20,19 @@
    npm install react-bootstrap bootstrap
 ```
 
-4. Run react app
+4. Install Bootstrap
+
+```
+   npm install react-bootstrap-icons --save
+```
+
+5. Install react-on-screen
+
+```
+   npm install --save react-on-screen
+```
+
+Run react app
 
 ```
    npm start
