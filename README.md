@@ -32,7 +32,7 @@
    npm install --save react-on-screen
 ```
 
-5. Install react-on-screen
+5. Install react-multi-carousel
 
 ```
    npm i react-multi-carousel
