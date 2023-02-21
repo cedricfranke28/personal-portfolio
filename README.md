@@ -32,9 +32,16 @@
    npm install --save react-on-screen
 ```
 
+5. Install react-on-screen
+
+```
+   npm i react-multi-carousel
+```
+
 Run react app
 
 ```
    npm start
 ```
+
 ![Bildschirm­foto 2023-02-20 um 19 46 02](https://user-images.githubusercontent.com/62056776/220180478-ba1e8718-f036-4e8a-ae71-7655fa7402c3.png)
